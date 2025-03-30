@@ -5,7 +5,7 @@
 Add something.
 """
 
-
+# Define the main function.
 def main():
     pass
 
