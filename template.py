@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # Created By: Joseph Wondimagnehu
 # Date: Month Day, Year
-"""
-Add something.
-"""
+# Add something.
 
 # Define the main function.
 def main():
